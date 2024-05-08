@@ -1,0 +1,5 @@
+C:/Users/UTENTE/Desktop/secondi es PCS/Esercitazione_6_Sorting/build-Esercizio_2-Desktop-Profile/CMakeFiles/sorting.dir
+C:/Users/UTENTE/Desktop/secondi es PCS/Esercitazione_6_Sorting/build-Esercizio_2-Desktop-Profile/CMakeFiles/edit_cache.dir
+C:/Users/UTENTE/Desktop/secondi es PCS/Esercitazione_6_Sorting/build-Esercizio_2-Desktop-Profile/CMakeFiles/rebuild_cache.dir
+C:/Users/UTENTE/Desktop/secondi es PCS/Esercitazione_6_Sorting/build-Esercizio_2-Desktop-Profile/src/CMakeFiles/edit_cache.dir
+C:/Users/UTENTE/Desktop/secondi es PCS/Esercitazione_6_Sorting/build-Esercizio_2-Desktop-Profile/src/CMakeFiles/rebuild_cache.dir
